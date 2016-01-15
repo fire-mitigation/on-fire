@@ -9,3 +9,5 @@
 plotsurvey<-lm(years~ fireRisk,data=FullD)
 
 plot(FullD$fireRisk, FullD$years)
+
+#### <(*_*)> ####
