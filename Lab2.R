@@ -13,3 +13,7 @@ counts<-table(FullData$fireRisk)
 
 barplot(counts, main="Fire Risk Distribution", xlab="Level of Risk", ylab="frequency")
 
+##################
+
+
+plot(FullData$fireRisk, FullData$years)
