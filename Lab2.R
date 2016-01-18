@@ -15,4 +15,6 @@ barplot(counts, main="Fire Risk Distribution", xlab="Level of Risk", ylab="Frequ
 #####
 # new bar plot looking at distribution of chipping services used
 counts1 <- table(FullData$chip)
-barplot(counts1, main="Uses of Chipping Services", xlab="Number of Uses", ylab="Frequency")
+barplot(counts1, main="Uses of Chipping Services", xlab="Number of Uses", ylab="Fire Frequency")
+
+
