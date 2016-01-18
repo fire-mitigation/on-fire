@@ -8,6 +8,8 @@
 
 plotsurvey<-lm(years~ fireRisk,data=FullData)
 
+
 counts<-table(FullData$fireRisk)
 
 barplot(counts, main="Fire Risk Distribution", xlab="Level of Risk", ylab="frequency")
+
