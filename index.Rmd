@@ -3,12 +3,25 @@ title: "Data Management"
 output: html_document
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 139159d5c24633a6d62edaa2809cef8be22df389
 ###Types of Data
 
 ###Data and Metadata Standards
 
 ###Policies for Access and Sharing
 
+<<<<<<< HEAD
 ###Policies and Provisions for Re-Use, Re-Distribution
 
 ###Plans for Archiving and Preservation of Access
+=======
+###Policies and Provisions for Re-use, Re-distibution
+
+###Plans for Archiving and Preservation of Access
+
+
+
+>>>>>>> 139159d5c24633a6d62edaa2809cef8be22df389
