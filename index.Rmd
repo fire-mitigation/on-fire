@@ -1,0 +1,14 @@
+---
+title: "Data Management"
+output: html_document
+---
+
+###Types of Data
+
+###Data and Metadata Standards
+
+###Policies for Access and Sharing
+
+###Policies and Provisions for Re-Use, Re-Distribution
+
+###Plans for Archiving and Preservation of Access
