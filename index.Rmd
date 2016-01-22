@@ -3,10 +3,6 @@ title: "Data Management"
 output: html_document
 ---
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 139159d5c24633a6d62edaa2809cef8be22df389
 ###Types of Data
 Provide a description of the data you will collect or re-use, including the file types, dataset size, number of expected files or sets, and content. Data types could include text, spreadsheets, images, 3D models, software, audio files, video files, reports, surveys, patient records, etc. Data that underlie the findings reported in a journal article or conference paper should be deposited in accordance with the policies of the publication and according to the procedures laid out in the DMP included in the proposal that led to the award on which the research is based. 
 
@@ -76,4 +72,4 @@ What metadata/ documentation will be submitted alongside the data or created on 
 What related information will be deposited?
 
 
->>>>>>> 139159d5c24633a6d62edaa2809cef8be22df389
+
