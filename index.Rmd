@@ -3,7 +3,10 @@ title: "Data Management"
 output: html_document
 ---
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 139159d5c24633a6d62edaa2809cef8be22df389
 ###Types of Data
 Provide a description of the data you will collect or re-use, including the file types, dataset size, number of expected files or sets, and content. Data types could include text, spreadsheets, images, 3D models, software, audio files, video files, reports, surveys, patient records, etc. Data that underlie the findings reported in a journal article or conference paper should be deposited in accordance with the policies of the publication and according to the procedures laid out in the DMP included in the proposal that led to the award on which the research is based. 
 
@@ -37,6 +40,11 @@ What is the process for gaining access to the data?
 Who are the foreseeable data users?
 How should your data be cited?
 
+<<<<<<< HEAD
+###Policies and Provisions for Re-Use, Re-Distribution
+
+###Plans for Archiving and Preservation of Access
+=======
 ###Policies and Provisions for Re-use, Re-distibution
 Describe policies surrounding the re-use of your data – the EAR division is specifically interested in how soon you will make your data available. If you will not be making the data available for re-use immediately, explain why. Remember that EAR specifies that you must make your data available no later than two years after your research is complete. If there are other policy issues regarding data access and re-use (ethical or privacy issues, for instance) elaborate on them here. Consider these questions:
 
@@ -68,3 +76,4 @@ What metadata/ documentation will be submitted alongside the data or created on 
 What related information will be deposited?
 
 
+>>>>>>> 139159d5c24633a6d62edaa2809cef8be22df389

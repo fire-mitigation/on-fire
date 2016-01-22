@@ -1,24 +1,11 @@
-########################
-#Sarah McCutcheon & Juliana Matos
-#ESM 296 Lab 2
-#######################
+###############
+## Juliana Matos
+## ESM296 INFORMATICS WEEK 2 GITHUB PRACTICE
+###############
 
-#SurveyData<-read.table("C:/Users/sarah/Documents/296/FullD.csv", header= TRUE)
+#SurveyData <- read.table("~/Documents/Bren/ESM296INF/FullD.csv", header=TRUE, na.strings="69")
+### having issues importing it in correctly so imported the old fashioned way
 
-#View(SurveyData)
-
-plotsurvey<-lm(years~ fireRisk,data=FullData)
-
-counts <- table(FullData$fireRisk)
-barplot(counts, main="Fire Risk Distribution", xlab="Level of Risk", ylab="Frequency")
-
-#####
-# new bar plot looking at distribution of chipping services used
-counts1 <- table(FullData$chip)
-barplot(counts1, main="Uses of Chipping Services", xlab="Number of Uses", ylab="Frequency")
-
-
-##################
-
-
-plot(FullData$fireRisk, FullData$years)
+quartz()
+PlotSurvey <- lm(years ~ fireRisk, data=FullD)
+plot(FullD$fireRisk, FullD$years)
