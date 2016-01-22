@@ -36,11 +36,6 @@ What is the process for gaining access to the data?
 Who are the foreseeable data users?
 How should your data be cited?
 
-<<<<<<< HEAD
-###Policies and Provisions for Re-Use, Re-Distribution
-
-###Plans for Archiving and Preservation of Access
-=======
 ###Policies and Provisions for Re-use, Re-distibution
 Describe policies surrounding the re-use of your data – the EAR division is specifically interested in how soon you will make your data available. If you will not be making the data available for re-use immediately, explain why. Remember that EAR specifies that you must make your data available no later than two years after your research is complete. If there are other policy issues regarding data access and re-use (ethical or privacy issues, for instance) elaborate on them here. Consider these questions:
 
