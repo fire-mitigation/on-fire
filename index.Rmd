@@ -102,5 +102,21 @@ Describe your long-term strategy for archiving and preserving your data. EAR enc
 * What related information will be deposited?
     +
 
+## Data Question
+# load libraries
+library(readr)
+library(dplyr)
+
+# read in csv
+surveys = FullData
+
+# dplyr elegance
+surveys %T>%                          # note tee operator %T>% for glimpse
+  glimpse() %>%                       # view data
+  select(fireRisk, years) %>%        # limit columns
+  filter(fireRisk  == '5') %>%     # limit rows
+  group_by(years) %>%                  # get count by first grouping
+  summarize(n = n()) %>%              #   then summarize
+  
 
 
