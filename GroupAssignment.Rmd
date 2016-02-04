@@ -1,0 +1,24 @@
+---
+title: "Survey Data Programming"
+author: "Sarah McCutcheon and Juliana Matos"
+date: "February 4, 2016"
+output: html_document
+---
+
+```{r}
+survey <- read.csv("~/296/on-fire.github.io/Data/survey.csv")
+View(survey)
+library (dplyr)
+library (tidyr)
+
+surveysort<- survey %>%
+ group_by(Beneficial)%>%
+  filter(
+      Beneficial %in% c('5', '4')) %>%
+  arrange(surveysort, Beneficial, Risk, Vote, Evacuated)
+  arrange(survey, desc(Beneficial))
+  
+surveysort
+View(surveysort)
+```
+
